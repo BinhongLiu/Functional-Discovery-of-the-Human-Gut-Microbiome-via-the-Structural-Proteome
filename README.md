@@ -28,7 +28,9 @@ with similar structures to the uploaded structural template.
 
 ## 3. The predicted protein structures from 12 type phages
 Protein structures of 12 type phages predicted by AlphaFold2 can be freely downloaded from the figshare (https://doi.org/10.6084/m9.figshare.26984035.v1). These well-studied phage proteins are clustered together with gut phage protein structures to infer the functions of unannotated gut phage proteins.
-List of type phages:
-Escherichia phage P1、Escherichia phage P2、Bacteriophage P2、Enterobacteria phage P4、
-Enterobacteria phage T3、Escherichia phage T4、Escherichia phage T5、Escherichia phage T7
-Escherichia phage HK97、Escherichia phage Lambda、Escherichia phage Mu、Inovirus M13
+<br />
+
+List of type phages:<br />
+Escherichia phage P1、Escherichia phage P2、Bacteriophage P2、Enterobacteria phage P4、<br />
+Enterobacteria phage T3、Escherichia phage T4、Escherichia phage T5、Escherichia phage T7<br />
+Escherichia phage HK97、Escherichia phage Lambda、Escherichia phage Mu、Inovirus M13<br />
