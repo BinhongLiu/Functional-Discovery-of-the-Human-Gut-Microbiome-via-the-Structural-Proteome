@@ -26,6 +26,7 @@ with similar structures to the uploaded structural template.
 <img src="https://github.com/user-attachments/assets/a3dd2241-b3b7-49d9-86e0-6426fe26ce53" width="500" />
 <br />
 <br />
+<br />
 
 ## 3. The predicted protein structures from 12 type phages
 Genomes, protein sequences, and structures of 12 type phages predicted by AlphaFold2 can be freely downloaded from the figshare (https://doi.org/10.6084/m9.figshare.26984035.v1). These well-studied phage proteins are clustered together with gut phage protein structures to infer the functions of unannotated gut phage proteins.
