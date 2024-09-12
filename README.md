@@ -4,12 +4,13 @@ Here we provide associated scripts and PDB files for the manuscript: Functional 
 
 
 ## 1. Scripts
-The scripts to analyze the data and plot the figures in the manuscript are deposed in the fold `scripts`.
-Mainly including codes to do:
-a. structure alignment
-b. structure clustering
-c. structural tree visualization
-d. structural domain segmentation
+The scripts to analyze the data and plot the figures in the manuscript are deposed in the fold `scripts`.<br />
+
+Mainly including codes to do:<br />
+a. structure alignment<br />
+b. structure clustering<br />
+c. structural tree visualization<br />
+d. structural domain segmentation<br />
 <br />
 <br />
 
