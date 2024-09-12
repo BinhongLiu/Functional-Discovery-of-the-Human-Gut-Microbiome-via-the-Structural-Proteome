@@ -6,8 +6,15 @@ Here we provide associated scripts and PDB files for the manuscript: Functional 
 ## 1. Scripts
 The scripts to analyze the data and plot the figures in the manuscript are deposed in the fold `scripts`.
 
+
 ## 2. The human Gut Microbial Protein Structure database (GMPS)
 The human Gut Microbial Protein Structure database (GMPS) includes AlphaFold2 predicted protein structures from 1496 phage genomes and 968 bacteria genomes. The GMPS database is freely available to the public without registration or login requirements (http://siat.dthink.net:81/home/align). Users can freely download the genomes, protein sequences, and protein structures.
+
+
+<img src="https://github.com/user-attachments/assets/5ab3de49-3d67-4ff4-a57e-fdbb19d4ecb8" width="500" />
+
+
+
 
 ## 3. The predicted protein structures from 12 type phages
 Protein structures of 12 type phages predicted by AlphaFold2 can be freely downloaded from the figshare (https://doi.org/10.6084/m9.figshare.26984035.v1). These well-studied phage proteins are clustered together with gut phage protein structures to infer the functions of unannotated gut phage proteins.
