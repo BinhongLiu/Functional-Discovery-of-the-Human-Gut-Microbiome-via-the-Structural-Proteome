@@ -20,7 +20,8 @@ with similar structures to the uploaded structural template.
 <br />
 <br />
 
-<img src="https://github.com/user-attachments/assets/c3a06fa2-2355-4bb3-8439-4464e5ccad8e" width="500" />
+<img src="https://github.com/user-attachments/assets/cb2e6ff2-3227-432e-b697-ca9e986dd5e6" width="500" />
+
 <br />
 <br />
 <img src="https://github.com/user-attachments/assets/a3dd2241-b3b7-49d9-86e0-6426fe26ce53" width="500" />
