@@ -21,7 +21,7 @@ with similar structures to the uploaded structural template.
 <br />
 
 <img src="https://github.com/user-attachments/assets/ee6edb97-a91f-4489-a588-d896c4139914" width="500" />
-
+<br />
 
 <br />
 <br />
